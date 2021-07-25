@@ -29,6 +29,8 @@ Raymon Anthony Doane came in third with 3.1% total vote or 11,606 votes.
 ##Challenge Overview
 The election commission has requested additional data to complete the audit:
 1. The voter turnout for each county
-2. The percentage of votes from each county out of the total count
-3. The county with the highest turnout
+Jefferson: 38,855 (10.5%)
+Denver: 306,055 (82.8%)
+Arapahoe: 24,801 (6.7%)
 
+Denver county had the highest voter turnout (306,055 votes) (82.8% of total votes)
