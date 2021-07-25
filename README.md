@@ -34,3 +34,7 @@ Denver: 306,055 (82.8%)
 Arapahoe: 24,801 (6.7%)
 
 Denver county had the highest voter turnout (306,055 votes) (82.8% of total votes)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/86337475/126909509-07a32c8b-8938-4634-907d-b8ab8d2239f8.png)
+
+Above you can see two separate python scripts with very similar conditional for loops. The code on the left pulls the votes for each county, counts the votes and determines the county with the highest voter turnout, as well as the percentage of total votes from all three counties. The code on the right counts the votes for each candidate and determines the winner by votes and reports total votes for each candidate as well as the percentage of the total votes.  This type of code could be used for future election audits as well as providing a more in-depth analysis on election results such as which candidate had the highest votes in which county, for example. This type of data could be useful to the candidates going forword to identify areas where they need to focus their efforts more, or where their voter strongholds are.
